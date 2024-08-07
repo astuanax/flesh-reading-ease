@@ -5,7 +5,7 @@ edition = "2021"
 description = "Calculate Flesh Reading Ease for a given text and language."
 repository = "https://github.com/astuanax/flesh-reading-ease"
 license = "MIT"
-keywords = ["textanalysis", "readability", "flesh", "English", "French", "German", "Dutch", "Polish", "Bulgarian"]
+keywords = ["textanalysis", "readability", "flesh", "languages"]
 
 
 [lib]
