@@ -1,0 +1,18 @@
+[package]
+name = "flesh-reading-ease"
+version = "0.1.0"
+edition = "2021"
+description = "Calculate Flesh Reading Ease for a given text and language."
+repository = "https://github.com/astuanax/flesh-reading-ease"
+license = "MIT"
+keywords = ["textanalysis", "readability", "flesh", "English", "French", "German", "Dutch", "Polish", "Bulgarian"]
+
+
+[lib]
+name = "flesh_reading_ease"
+path = "src/lib.rs"
+
+
+
+[dependencies]
+regex = "1.10.6"
